@@ -20,7 +20,7 @@ This project is a Spring Boot implementation of the backend APIs for a ticket bo
 ## Getting Started
 To set up the project on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/JavaaTechSolutions/movie-ticket-booking-system.git
+1. Clone the repository: `git clone https://github.com/movie-ticket-booking-system.git
 2. Navigate to the project directory
 3. Configure the database settings in `application.properties` file.
 4. Build the project using Maven: `mvn clean install`
